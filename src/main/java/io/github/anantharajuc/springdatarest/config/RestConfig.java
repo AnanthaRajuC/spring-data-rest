@@ -13,7 +13,7 @@ public class RestConfig implements RepositoryRestConfigurer {
   @Override
   public void configureRepositoryRestConfiguration(RepositoryRestConfiguration config, CorsRegistry cors){
     config.exposeIdsFor(Person.class);
-    config.setBasePath("/api");
+    /*config.setBasePath("/api");*/
   }
 }
 
