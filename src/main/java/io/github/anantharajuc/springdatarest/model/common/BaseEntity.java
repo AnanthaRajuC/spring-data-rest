@@ -1,4 +1,4 @@
-package io.github.anantharajuc.springdatarest.model;
+package io.github.anantharajuc.springdatarest.model.common;
 
 import lombok.AccessLevel;
 import lombok.Getter;

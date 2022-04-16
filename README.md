@@ -1,5 +1,10 @@
 # Spring Data REST
 
+Easy way to build hypermedia-driven REST web services on top of Spring Data repositories.
+
+- Supports pagination via navigational links.
+- Exposes metadata about the model discovered as ALPS (Application-Level Profile Semantics) and JSON Schema.
+
 ## Details
 
 - [API](documents/API.md)  
